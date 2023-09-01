@@ -1,0 +1,15 @@
+C:\Users\Oso\source\repos\prueba1\prueba1\bin\Debug\prueba1.exe.config
+C:\Users\Oso\source\repos\prueba1\prueba1\bin\Debug\prueba1.exe
+C:\Users\Oso\source\repos\prueba1\prueba1\bin\Debug\prueba1.pdb
+C:\Users\Oso\source\repos\prueba1\prueba1\obj\Debug\prueba1.csproj.AssemblyReference.cache
+C:\Users\Oso\source\repos\prueba1\prueba1\obj\Debug\prueba1.Form1.resources
+C:\Users\Oso\source\repos\prueba1\prueba1\obj\Debug\prueba1.Properties.Resources.resources
+C:\Users\Oso\source\repos\prueba1\prueba1\obj\Debug\prueba1.csproj.GenerateResource.cache
+C:\Users\Oso\source\repos\prueba1\prueba1\obj\Debug\prueba1.csproj.CoreCompileInputs.cache
+C:\Users\Oso\source\repos\prueba1\prueba1\obj\Debug\prueba1.exe
+C:\Users\Oso\source\repos\prueba1\prueba1\obj\Debug\prueba1.pdb
+C:\Users\Oso\source\repos\prueba1\prueba1\bin\Debug\Nancy.dll
+C:\Users\Oso\source\repos\prueba1\prueba1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oso\source\repos\prueba1\prueba1\bin\Debug\Nancy.xml
+C:\Users\Oso\source\repos\prueba1\prueba1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oso\source\repos\prueba1\prueba1\obj\Debug\prueba1.csproj.CopyComplete
